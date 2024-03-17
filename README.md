@@ -1,3 +1,5 @@
+EDIT: A minor mistake was found in the code and repaired. The right file to run is "sensitivity_analysis_ISSR_mod"
+
 # Thesis_code_repository
 
 This repository contains the Jupyter notebook used to code the models and obtain the results presented in my master thesis: "Emissions from a hydrogen-fuel-cell-powered aircraft characterization, environmental impact, and mitigation study".
